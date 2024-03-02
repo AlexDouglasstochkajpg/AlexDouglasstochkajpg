@@ -10,7 +10,7 @@ About me:
 
 ---
 
-![Java](https://img.shields.io/badge/Java-%3E%3D1.5-green)
+![Java](https://img.shields.io/badge/Java-%3E%3D8.0-green)
 
 Here is my study projects:
 
